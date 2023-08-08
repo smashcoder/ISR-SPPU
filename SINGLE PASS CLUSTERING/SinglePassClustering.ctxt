@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SinglePassClustering
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=noOfDocuments\ noOfTokens\ threshold\ input
+comment2.target=void\ singlePassAlgorithm(int,\ int,\ float,\ int[][])
+comment3.params=input
+comment3.target=java.lang.Float[]\ convertIntArrayToFloatArray(int[])
+comment4.params=a\ b
+comment4.target=float\ calculateSimilarity(java.lang.Float[],\ java.lang.Float[])
+comment5.params=cluster\ input\ noOfTokens
+comment5.target=java.lang.Float[]\ calculateClusterRepresentative(int[],\ int[][],\ int)
+numComments=6
